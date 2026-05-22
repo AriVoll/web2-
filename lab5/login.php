@@ -4,7 +4,7 @@ header('Content-Type: text/html; charset=UTF-8');
 // ─── Настройки БД ──────────────────────────────────────────────
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'u82408');
-define('DB_USER', '82408');
+define('DB_USER', 'u82408');
 define('DB_PASS', '7505322');
 
 function get_db() {
